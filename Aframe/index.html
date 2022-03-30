@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>360 Video</title>
+    <script src="dist/aframe-master.js"></script>
+</head>
+<body>
+    <a-scene>
+        <!--Asset management system-->
+        <a-assets>
+           <!--<img id="play" src="../resources/play.png">
+           <img id="pause" src="../resources/play.png">-->  
+
+            <video id="videoFile" src="sample.mp4" autoplay></video>
+        </a-assets>
+
+        <!--Camera-->
+        <a-camera>
+            <a-cursor>
+
+            </a-cursor>
+        </a-camera>
+
+        <!--360 video-->
+        <a-videosphere src="#videoFile"></a-videosphere>
+
+    </a-scene>
+</body>
+</html>
