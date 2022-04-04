@@ -1,0 +1,498 @@
+ID,Area,Emirate,Branch,Branch Code
+1,Al Barari,Dubai,Al Aweer,14
+2,Al Barsha 1,Dubai,Barsha,17
+3,Al Furjan,Dubai,Barsha,17
+4,Al Khail Heights,Dubai,Barsha,17
+5,Al Quoz 2,Dubai,Barsha,17
+6,Al Sufouh 1,Dubai,Um Suqeim,18
+7,Arabian Ranches,Dubai,Al Barsha South,30
+8,Arabian Ranches 2,Dubai,Al Barsha South,30
+9,Arjan,Dubai,Al Barsha South,30
+10,Barsha Heights,Dubai,Barsha,17
+11,DAMAC Hills,Dubai,Al Barsha South,30
+12,Discovery Gardens,Dubai,Barsha,17
+13,Downtown Jebel Ali,Dubai,Barsha,17
+14,Dubai Hills Estate,Dubai,Al Barsha South,30
+15,Dubai Industrial Park,Dubai,Al Barsha South,30
+16,Dubai Internet City,Dubai,Um Suqeim,18
+17,Dubai Investment Park-1,Dubai,Al Barsha South,30
+18,Dubai Marina,Dubai,Um Suqeim,18
+19,Dubai Media City,Dubai,Um Suqeim,18
+20,Dubai Production City (IMPZ),Dubai,Al Barsha South,30
+21,"Dubai Science Park, Dubai",Dubai,Al Barsha South,30
+22,Dubai Sports City,Dubai,Al Barsha South,30
+23,Dubai Studio City,Dubai,Al Barsha South,30
+24,Dubai Waterfront,Dubai,Barsha,17
+25,Dubai World Central,Dubai,Barsha,17
+26,Emirates Golf Club,Dubai,Al Barsha South,30
+27,Emirates Hills,Dubai,Barsha,17
+28,Green Community,Dubai,Al Barsha South,30
+29,Greens,Dubai,Barsha,17
+30,Jebel Ali,Dubai,Barsha,17
+31,Jumeirah Beach Residence,Dubai,Um Suqeim,18
+32,Jumeirah Golf Estates,Dubai,Al Barsha South,30
+33,Jumeirah Heights,Dubai,Barsha,17
+34,Jumeirah Islands 1-2,Dubai,Barsha,17
+35,Jumeirah Lake Towers,Dubai,Barsha,17
+36,Jumeirah Park,Dubai,Barsha,17
+37,Jumeirah Village Circle,Dubai,Al Barsha South,30
+38,Jumeirah Village Triangle,Dubai,Barsha,17
+39,Living Legends,Dubai,Al Aweer,14
+40,Majan,Dubai,Al Aweer,14
+41,Meadows,Dubai,Barsha,17
+42,Mohammed Bin Rashid City - District 1,Dubai,Nad Al Sheba,26
+43,Motor City,Dubai,Al Barsha South,30
+44,Mudon,Dubai,Al Barsha South,30
+45,Palm Jebel Ali,Dubai,Barsha,17
+46,Palm Jumeirah,Dubai,Um Suqeim,18
+47,Reem,Dubai,Al Barsha South,30
+48,Remraam,Dubai,Al Barsha South,30
+49,The Gardens,Dubai,Barsha,17
+50,The Lakes,Dubai,Barsha,17
+51,The Springs,Dubai,Barsha,17
+52,The Sustainable City,Dubai,Al Barsha South,30
+53,The Views,Dubai,Barsha,17
+54,Town Square,Dubai,Al Barsha South,30
+55,Umm Al Sheif,Dubai,Um Suqeim,18
+56,Umm Hurair 1,Dubai,Al Wasl,12
+57,Umm Suqeim 1,Dubai,Um Suqeim,18
+58,Wadi Al Safa 2,Dubai,Al Aweer,14
+59,Academic City,Dubai,Al Aweer,14
+60,Al Aweer,Dubai,Al Aweer,14
+61,Al Badaa,Dubai,Al Wasl,12
+62,Al Garhoud,Dubai,Al Towar,4
+63,Al Hamriya Port,Dubai,Al Towar,4
+64,Al Jaddaf,Dubai,Al Wasl,12
+65,Al Jafiliya,Dubai,Al Wasl,12
+66,Al Khawaneej 1,Dubai,Mirdiff,16
+67,Al Mizhar 1,Dubai,Mirdiff,16
+68,AL Muhaisnah 1,Dubai,Mirdiff,16
+69,Al Nahda 1,Dubai,Al Towar,4
+70,Al Qusais 1,Dubai,Al Towar,4
+71,Al Rashidiya,Dubai,Al Towar,4
+72,Al Safa 1,Dubai,Um Suqeim,18
+73,Al Satwa,Dubai,Al Wasl,12
+74,Al Twar 1,Dubai,Al Towar,4
+75,Al Warqaa 1,Dubai,Al Warqa,28
+76,Al Warsan 1,Dubai,Al Aweer,14
+77,Al Wasl,Dubai,Al Wasl,12
+78,Bur Dubai,Dubai,Al Wasl,12
+79,Business Bay,Dubai,Al Wasl,12
+80,City Walk,Dubai,Al Wasl,12
+81,Culture Village,Dubai,Al Wasl,12
+82,Deira,Dubai,Al Towar,4
+83,DIFC,Dubai,Al Wasl,12
+84,Downtown Dubai,Dubai,Al Wasl,12
+85,Dubai Airport Freezone (DAFZA),Dubai,Al Towar,4
+86,Dubai Festival City,Dubai,Al Aweer,14
+87,Dubai Healthcare City,Dubai,Al Wasl,12
+88,Dubai Healthcare City 2,Dubai,Al Wasl,12
+89,Dubai Land,Dubai,Nad Al Sheba,26
+90,Dubai Residence Complex,Dubai,Al Aweer,14
+91,Dubai Silicon Oasis,Dubai,Nad Al Sheba,26
+92,Falcon City of Wonders,Dubai,Al Aweer,14
+93,International City,Dubai,Al Aweer,14
+94,Jumeirah,Dubai,Um Suqeim,18
+95,Karama,Dubai,Al Wasl,12
+96,Liwan,Dubai,Al Aweer,14
+97,Meydan Avenue,Dubai,Nad Al Sheba,26
+98,Meydan Gated Community,Dubai,Nad Al Sheba,26
+99,Meydan One,Dubai,Nad Al Sheba,26
+100,Mirdif,Dubai,Al Warqa,28
+101,Nadd Al Hammar,Dubai,Al Aweer,14
+102,Nadd Al Sheba,Dubai,Nad Al Sheba,26
+103,Old Town,Dubai,Al Wasl,12
+104,Al Muteena,Dubai,Al Towar,4
+105,Ras Al Khor,Dubai,Al Aweer,14
+106,Sheikh Zayed Road,Dubai,Al Wasl,12
+107,The Villa,Dubai,Al Aweer,14
+108,Umm Ramool,Dubai,Al Towar,4
+109,Trade Center 1,Dubai,Al Wasl,12
+110,Al Ain,Abu Dhabi,Barsha,17
+111,Al Reem Island,Abu Dhabi,Barsha,17
+112,Al Raha Beach,Abu Dhabi,Barsha,17
+113,Yas Island,Abu Dhabi,Barsha,17
+114,Saadiyat Island,Abu Dhabi,Barsha,17
+115,Al Reef,Abu Dhabi,Barsha,17
+116,Al Ghadeer,Abu Dhabi,Barsha,17
+117,Masdar City,Abu Dhabi,Barsha,17
+118,Baniyas,Abu Dhabi,Barsha,17
+119,Danet Abu Dhabi,Abu Dhabi,Barsha,17
+120,The Marina,Abu Dhabi,Barsha,17
+121,Al Raha Gardens,Abu Dhabi,Barsha,17
+122,Muroor Area,Abu Dhabi,Barsha,17
+123,Al Maryah,Abu Dhabi,Barsha,17
+124,Airport Road,Abu Dhabi,Barsha,17
+125,Khalifa City,Abu Dhabi,Barsha,17
+126,Mohamed Bin Zayed City,Abu Dhabi,Barsha,17
+127,Hydra Village,Abu Dhabi,Barsha,17
+128,Al Raha Golf Gardens,Abu Dhabi,Barsha,17
+129,Al Salam Street,Abu Dhabi,Barsha,17
+130,Al Shamkha,Abu Dhabi,Barsha,17
+131,Al Mushrif,Abu Dhabi,Barsha,17
+132,Al Samha,Abu Dhabi,Barsha,17
+133,Abu Dhabi Gate City,Abu Dhabi,Barsha,17
+134,Nurai Island,Abu Dhabi,Barsha,17
+135,Shakhbout City,Abu Dhabi,Barsha,17
+136,Al Gurm,Abu Dhabi,Barsha,17
+137,Al Qurm,Abu Dhabi,Barsha,17
+138,Marina Village,Abu Dhabi,Barsha,17
+139,Al Maqtaa,Abu Dhabi,Barsha,17
+140,Al Karama,Abu Dhabi,Barsha,17
+141,Al Bateen,Abu Dhabi,Barsha,17
+142,Al Khalidiya,Abu Dhabi,Barsha,17
+143,Al Nahyan Camp,Abu Dhabi,Barsha,17
+144,Al Bahia,Abu Dhabi,Barsha,17
+145,Al Zaab,Abu Dhabi,Barsha,17
+146,Al Nahda,Abu Dhabi,Barsha,17
+147,City Downtown,Abu Dhabi,Barsha,17
+148,Al Nahyan,Abu Dhabi,Barsha,17
+149,Al Wathba,Abu Dhabi,Barsha,17
+150,Al Falah City,Abu Dhabi,Barsha,17
+151,Al Shawamekh,Abu Dhabi,Barsha,17
+152,Al Rahba,Abu Dhabi,Barsha,17
+153,Al Shahama,Abu Dhabi,Barsha,17
+154,Al Dhafrah,Abu Dhabi,Barsha,17
+155,Al Wahda,Abu Dhabi,Barsha,17
+156,Between Two Bridges,Abu Dhabi,Barsha,17
+157,Electra Street,Abu Dhabi,Barsha,17
+158,Al Gurm West,Abu Dhabi,Barsha,17
+159,Nareel Island,Abu Dhabi,Barsha,17
+160,Madinat Zayed,Abu Dhabi,Barsha,17
+161,Al Rawdah,Abu Dhabi,Barsha,17
+162,Capital Centre,Abu Dhabi,Barsha,17
+163,Al Khatim,Abu Dhabi,Barsha,17
+164,Ajman Downtown,Ajman,Al Towar,4
+165,Al Naemiyah,Ajman,Al Towar,4
+166,Garden City,Ajman,Al Towar,4
+167,Al Rashidiya,Ajman,Al Towar,4
+168,Al Rumaila,Ajman,Al Towar,4
+169,Ajman Corniche Road,Ajman,Al Towar,4
+170,Emirates City,Ajman,Al Towar,4
+171,Corniche Ajman,Ajman,Al Towar,4
+172,Al Sawan,Ajman,Al Towar,4
+173,Al Rawda,Ajman,Al Towar,4
+174,Al Hamidiya,Ajman,Al Towar,4
+175,Al Bustan,Ajman,Al Towar,4
+176,Al Mwaihat,Ajman,Al Towar,4
+177,Al Zahraa,Ajman,Al Towar,4
+178,Ajman Industrial Area,Ajman,Al Towar,4
+179,Musheiref,Ajman,Al Towar,4
+180,Marmooka City,Ajman,Al Towar,4
+181,Ain Ajman,Ajman,Al Towar,4
+182,New industrial area Ajman,Ajman,Al Towar,4
+183,Sheikh Khalifa Bin Zayed Street,Ajman,Al Towar,4
+184,Al Raqaib,Ajman,Al Towar,4
+185,Al Zorah,Ajman,Al Towar,4
+186,Ajman Uptown,Ajman,Al Towar,4
+187,Manama,Ajman,Al Towar,4
+188,Al Helio,Ajman,Al Towar,4
+189,Al Yasmeen,Ajman,Al Towar,4
+190,Al Badiyah,Fujairah,Barsha,17
+191,Al Bathna,Fujairah,Barsha,17
+192,Al Farfar,Fujairah,Barsha,17
+193,Al Faseel,Fujairah,Barsha,17
+194,Al Gurfa,Fujairah,Barsha,17
+195,Al Hala,Fujairah,Barsha,17
+196,Al Hayl,Fujairah,Barsha,17
+197,Al Ittihad,Fujairah,Barsha,17
+198,Al Mahatta,Fujairah,Barsha,17
+199,Al Owaid,Fujairah,Barsha,17
+200,Al Taween,Fujairah,Barsha,17
+201,Albeledah,Fujairah,Barsha,17
+202,Anajaimat,Fujairah,Barsha,17
+203,Awhala,Fujairah,Barsha,17
+204,Dibba Al Fujairah,Fujairah,Barsha,17
+205,Dedna,Fujairah,Barsha,17
+206,Fujairah Free Trade Zone,Fujairah,Barsha,17
+207,Fujairah Intl Airport,Fujairah,Barsha,17
+208,Fujairah Port,Fujairah,Barsha,17
+209,Halefaath,Fujairah,Barsha,17
+210,Industrial Area Fujairah,Fujairah,Barsha,17
+211,Madhab,Fujairah,Barsha,17
+212,Masafi,Fujairah,Barsha,17
+213,Merashid,Fujairah,Barsha,17
+214,Mirbah,Fujairah,Barsha,17
+215,Old Fujairah City,Fujairah,Barsha,17
+216,Rugaylat,Fujairah,Barsha,17
+217,Rumailah,Fujairah,Barsha,17
+218,Sakamkam,Fujairah,Barsha,17
+219,Sharm,Fujairah,Barsha,17
+220,Al Hamra Village,Ras Al Khaimah,Barsha,17
+221,Al Marjan Island,Ras Al Khaimah,Barsha,17
+222,Mina Al Arab,Ras Al Khaimah,Barsha,17
+223,Al Nakheel,Ras Al Khaimah,Barsha,17
+224,Yasmin Village,Ras Al Khaimah,Barsha,17
+225,Julfar,Ras Al Khaimah,Barsha,17
+226,Cornich Ras Al Khaimah,Ras Al Khaimah,Barsha,17
+227,Ras Al Khaimah Creek,Ras Al Khaimah,Barsha,17
+228,Al Seer Ras Al Khaimah,Ras Al Khaimah,Barsha,17
+229,Mina Al Arab,Ras Al Khaimah,Barsha,17
+230,Al Hamra Village RAK,Ras Al Khaimah,Barsha,17
+231,Ras Al Khaimah Waterfront,Ras Al Khaimah,Barsha,17
+232,Al Dhait,Ras Al Khaimah,Barsha,17
+233,Al Riffa,Ras Al Khaimah,Barsha,17
+234,Al Jazirah Al Hamra,Ras Al Khaimah,Barsha,17
+235,Cornich Ras Al Khaima,Ras Al Khaimah,Barsha,17
+236,Al Hamra Village,Ras Al Khaimah,Barsha,17
+237,Mina Al Arab,Ras Al Khaimah,Barsha,17
+238,Cornich Ras Al Khaima,Ras Al Khaimah,Barsha,17
+239,Ras Al Khaimah Waterfront,Ras Al Khaimah,Barsha,17
+240,Al Marjan Island,Ras Al Khaimah,Barsha,17
+241,Al Qusaidat,Ras Al Khaimah,Barsha,17
+242,Al Dhait,Ras Al Khaimah,Barsha,17
+243,Al Mairid,Ras Al Khaimah,Barsha,17
+244,Al Hamra Village,Ras Al Khaimah,Barsha,17
+245,Al Marjan Island,Ras Al Khaimah,Barsha,17
+246,Al Hamra Village,Ras Al Khaimah,Barsha,17
+247,Mina Al Arab,Ras Al Khaimah,Barsha,17
+248,Al Riffa,Ras Al Khaimah,Barsha,17
+249,Al Nahda - Sharjah,Sharjah,Al Towar,4
+250,Muwaileh,Sharjah,Al Towar,4
+251,Cornich Al Buhaira,Sharjah,Al Towar,4
+252,Al Mamzar - Sharjah,Sharjah,Al Towar,4
+253,Wasit,Sharjah,Al Towar,4
+254,Maryam Island,Sharjah,Al Towar,4
+255,Al Tai,Sharjah,Al Towar,4
+256,Sharjah Waterfront City,Sharjah,Al Towar,4
+257,Hamriyah Free Zone,Sharjah,Al Towar,4
+258,Al Majaz,Sharjah,Al Towar,4
+259,Al Khan,Sharjah,Al Towar,4
+260,Al Taawun,Sharjah,Al Towar,4
+261,Al Qasemiya,Sharjah,Al Towar,4
+262,Rolla Area,Sharjah,Al Towar,4
+263,Al Nabba,Sharjah,Al Towar,4
+264,Al Butina,Sharjah,Al Towar,4
+265,Al Sharq,Sharjah,Al Towar,4
+266,Abu Shagara,Sharjah,Al Towar,4
+267,Al Mujarrah,Sharjah,Al Towar,4
+268,Sharjah Industrial Area,Sharjah,Al Towar,4
+269,Al Qasba,Sharjah,Al Towar,4
+270,Muelih,Sharjah,Al Towar,4
+271,Halwan,Sharjah,Al Towar,4
+272,Al Musalla,Sharjah,Al Towar,4
+273,Aljada,Sharjah,Al Towar,4
+274,Al Gulayaa,Sharjah,Al Towar,4
+275,Al Wahda,Sharjah,Al Towar,4
+276,Al Nasreya,Sharjah,Al Towar,4
+277,Um Altaraffa,Sharjah,Al Towar,4
+278,Al Gharb,Sharjah,Al Towar,4
+279,Al Badie,Sharjah,Al Towar,4
+280,Al Heerah,Sharjah,Al Towar,4
+281,Al Humrah - D,Umm al-Quwain,UAQ Al Salma Branch,81
+282,Al Aahad,Umm al-Quwain,UAQ Al Salma Branch,81
+283,Al Abrab,Umm al-Quwain,UAQ Al Salma Branch,81
+284,Al Dar Al Baidah,Umm al-Quwain,UAQ Al Salma Branch,81
+285,Al Haditha,Umm al-Quwain,UAQ Al Salma Branch,81
+286,Al Hawiyah,Umm al-Quwain,UAQ Al Salma Branch,81
+287,Al Humrah - A,Umm al-Quwain,UAQ Al Salma Branch,81
+288,Al Humrah - B,Umm al-Quwain,UAQ Al Salma Branch,81
+289,Al Humrah - C,Umm al-Quwain,UAQ Al Salma Branch,81
+290,Al Khor,Umm al-Quwain,UAQ Al Salma Branch,81
+291,Al Limgadhar,Umm al-Quwain,UAQ Al Salma Branch,81
+292,Al Maidan,Umm al-Quwain,UAQ Al Salma Branch,81
+293,Al Raas - A,Umm al-Quwain,UAQ Al Salma Branch,81
+294,Al Raas - B,Umm al-Quwain,UAQ Al Salma Branch,81
+295,Al Raas - C,Umm al-Quwain,UAQ Al Salma Branch,81
+296,Al Ramlah,Umm al-Quwain,UAQ Al Salma Branch,81
+297,Al Raudah,Umm al-Quwain,UAQ Al Salma Branch,81
+298,Al Riqqah,Umm al-Quwain,UAQ Al Salma Branch,81
+299,Al Salamah - A,Umm al-Quwain,UAQ Al Salma Branch,81
+300,Al Salamah - B,Umm al-Quwain,UAQ Al Salma Branch,81
+301,Al Salamah - C,Umm al-Quwain,UAQ Al Salma Branch,81
+302,Defence Camp,Umm al-Quwain,UAQ Al Salma Branch,81
+303,Industrial Area,Umm al-Quwain,UAQ Al Salma Branch,81
+304,Old Town Area,Umm al-Quwain,UAQ Al Salma Branch,81
+305,Umm Al Quwain Marina,Umm al-Quwain,UAQ Al Salma Branch,81
+306,Al Mamzar,Dubai,Al Towar,4
+307,Nakhlat Palm Jebel Ali,Dubai,Barsha,17
+308,Hessyan 1-2,Dubai,Barsha,17
+309,Saih Shuaib 1,Dubai,Barsha,17
+310,Jebel Ali Industrial 3,Dubai,Barsha,17
+311,Mena Jebel Ali,Dubai,Barsha,17
+312,Jebel Ali 1,Dubai,Barsha,17
+313,Jebel Ali 2,Dubai,Barsha,17
+314,Jebel Ali 3,Dubai,Barsha,17
+315,Jebel Ali Industrial 1,Dubai,Barsha,17
+316,Jebel Ali Industrial 2,Dubai,Barsha,17
+317,Me aisem 1-2,Dubai,Al Barsha South,30
+318,Dubai Investment Park-2,Dubai,Al Barsha South,30
+319,Jumeirah Bay,Dubai,Um Suqeim,18
+320,Jumeirah 1,Dubai,Um Suqeim,18
+321,Jumeirah 2,Dubai,Um Suqeim,18
+322,Jumeirah 3,Dubai,Um Suqeim,18
+323,Umm Suqeim 2,Dubai,Um Suqeim,18
+324,Umm Suqeim 3,Dubai,Um Suqeim,18
+325,Al Sufouh 2,Dubai,Um Suqeim,18
+326,Al Safa 2,Dubai,Um Suqeim,18
+327,Al Manara,Dubai,Um Suqeim,18
+328,Trade Center 2,Dubai,Al Wasl,12
+329,Al Kifaf,Dubai,Al Wasl,12
+330,Zabeel 1,Dubai,Al Wasl,12
+331,Zabeel 2,Dubai,Al Wasl,12
+332,Burj Khalifa,Dubai,Al Wasl,12
+333,Al Corniche - Deira,Dubai,Al Towar,4
+334,Al Ras,Dubai,Al Towar,4
+335,Al Daghaya,Dubai,Al Towar,4
+336,Ayal Nasir,Dubai,Al Towar,4
+337,Al Buteen,Dubai,Al Towar,4
+338,Al Sabkha,Dubai,Al Towar,4
+339,Al Murar,Dubai,Al Towar,4
+340,Al Baraha,Dubai,Al Towar,4
+341,Naif Abu Hail,Dubai,Al Towar,4
+342,Al Rigga,Dubai,Al Towar,4
+343,Al Wuheida,Dubai,Al Towar,4
+344,Al Muraqqabat,Dubai,Al Towar,4
+345,Hor Al Anz,Dubai,Al Towar,4
+346,Rigga Al Buteen,Dubai,Al Towar,4
+347,Al Khabaisi,Dubai,Al Towar,4
+348,Al Nahda 2,Dubai,Al Towar,4
+349,Port Saeed,Dubai,Al Towar,4
+350,Al Twar 2,Dubai,Al Towar,4
+351,Al Twar 3,Dubai,Al Towar,4
+352,Al Qusais 2,Dubai,Al Towar,4
+353,Al Qusais 3,Dubai,Al Towar,4
+354,Al Qusais Industrial 2,Dubai,Al Towar,4
+355,Al Qusais Industrial 1,Dubai,Al Towar,4
+356,Al Qusais Industrial 3,Dubai,Al Towar,4
+357,Al Qusais Industrial 4,Dubai,Al Towar,4
+358,Al Qusais Industrial 5,Dubai,Al Towar,4
+359,AL Muhaisnah 2,Dubai,Mirdiff,16
+360,AL Muhaisnah 3,Dubai,Al Towar,4
+361,AL Muhaisnah 4,Dubai,Al Towar,4
+362,Nadd Shamma,Dubai,Al Aweer,14
+363,Madinat Al Maktoum,Dubai,Al Barsha South,30
+364,Madinat Al Mataar,Dubai,Al Barsha South,30
+365,Al Hebiah 1-5,Dubai,Al Barsha South,30
+366,Al Yufrah 1-2,Dubai,Al Barsha South,30
+367,Al Yalayis 1-5,Dubai,Al Barsha South,30
+368,Umm Nahad 1-4,Dubai,Al Aweer,14
+369,Wadi Al Safa 4-7,Dubai,Al Barsha South,30
+370,Ras Al Khor Industrial 1,Dubai,Al Aweer,14
+371,Ras Al Khor Industrial 2,Dubai,Al Aweer,14
+372,Ras Al Khor Industrial 3,Dubai,Al Aweer,14
+373,Bu Kadra,Dubai,Al Wasl,12
+374,Al Kheeran 1,Dubai,Al Aweer,14
+375,Al Kheeran,Dubai,Al Aweer,14
+376,Al Jadaf,Dubai,Al Wasl,12
+377,Nad Al Hamar,Dubai,Al Aweer,14
+378,Nad Al Sheba 1,Dubai,Nad Al Sheba,26
+379,Nad Al Sheba 2,Dubai,Nad Al Sheba,26
+380,Nad Al Sheba 3,Dubai,Nad Al Sheba,26
+381,Nad Al Sheba 4,Dubai,Nad Al Sheba,26
+382,Mushrif,Dubai,Al Warqa,28
+383,Oud Al Muteena 1,Dubai,Mirdiff,16
+384,Oud Al Muteena 2,Dubai,Mirdiff,16
+385,Oud Al Muteena 3,Dubai,Mirdiff,16
+386,Al Mizhar 2,Dubai,Mirdiff,16
+387,Al Warqaa 2,Dubai,Al Warqa,28
+388,Al Warqaa 3,Dubai,Al Warqa,28
+389,Al Warqaa 4,Dubai,Al Warqa,28
+390,Al Warqaa 5,Dubai,Al Warqa,28
+391,AL Warsan 2,Dubai,Al Aweer,14
+392,AL Warsan 3,Dubai,Al Aweer,14
+393,Al Khawaneej 2,Dubai,Mirdiff,16
+394,Nadd Hessa,Dubai,Al Aweer,14
+395,Wadi Al Amardi,Dubai,Al Warqa,28
+396,Wadi Al Shabak ,Dubai,Al Aweer,14
+397,Aleyas,Dubai,Al Aweer,14
+398,Al Shindagha,Dubai,Al Wasl,12
+399,Al Hudaiba,Dubai,Al Wasl,12
+400,Al Souq Al Kabeer,Dubai,Al Wasl,12
+401,Al Raffa,Dubai,Al Wasl,12
+402,Al Hamriya - Bur Dubai,Dubai,Al Wasl,12
+403,Mankhool,Dubai,Al Wasl,12
+404,Umm Hurair 2,Dubai,Al Wasl,12
+405,Al Karama,Dubai,Al Wasl,12
+406,Oud Metha,Dubai,Al Wasl,12
+407,AL Qudra,Dubai,Al Barsha South,30
+408,Al Layan 1-2,Dubai,Al Barsha South,30
+409,Al Thanya 1,Dubai,Barsha,17
+410,Al Thanya 2,Dubai,Barsha,17
+411,Al Thanya 3,Dubai,Barsha,17
+412,Al Thanya 4,Dubai,Barsha,17
+413,Al Thanya 5,Dubai,Barsha,17
+414,Al Quoz 1,Dubai,Barsha,17
+415,Al Quoz 3,Dubai,Barsha,17
+416,Al Quoz 4,Dubai,Barsha,17
+417,Al Barsha 2,Dubai,Barsha,17
+418,Al Barsha 3,Dubai,Barsha,17
+419,Al Quoz Industrial 1,Dubai,Barsha,17
+420,Al Quoz Industrial 2,Dubai,Barsha,17
+421,Al Quoz Industrial 3,Dubai,Barsha,17
+422,Al Quoz Industrial 4,Dubai,Barsha,17
+423,Al Barsha South 1-5,Dubai,Al Barsha South,30
+424,Al Ramla,Sharjah,Al Towar,4
+425,Mohammed Bin Rashid City - District 11,Dubai,Al Wasl,12
+426,Kalba,Sharjah,Barsha,17
+427,Khor Fakkan,Sharjah,Barsha,17
+428,Al Hamriya,Sharjah,Al Towar,4
+429,Al Dhaid,Sharjah,Barsha,17
+430,Maritime City,Dubai,Al Wasl,12
+431,Al Hayl Island,Abu Dhabi,Barsha,17
+432,Lehabab,Dubai,Al Aweer,14
+433,Lahbab,Dubai,Al Aweer,14
+434,Al Lisaili,Dubai,Al Aweer,14
+435,Dasman,Sharjah,Al Towar,4
+436,Al Abar,Sharjah,Al Towar,4
+437,Al Ghubaiba,Sharjah,Al Towar,4
+438,Samnan,Sharjah,Al Towar,4
+439,Al Khezamia,Ras Al Khaimah,Al Towar,4
+440,Al shabha,Sharjah,Al Towar,4
+441,Al Darari,Sharjah,Al Towar,4
+442,Al Tala a,Sharjah,Al Towar,4
+443,Al Tarfa,Sharjah,Al Towar,4
+444,Mughaidir Suburb,Sharjah,Al Towar,4
+445,Industrial Area 1,Sharjah,Al Towar,4
+446,Industrial Area 2,Sharjah,Al Towar,4
+447,Industrial Area 3,Sharjah,Al Towar,4
+448,Industrial Area 4,Sharjah,Al Towar,4
+449,Industrial Area 5,Sharjah,Al Towar,4
+450,Industrial Area 6,Sharjah,Al Towar,4
+451,Industrial Area 7,Sharjah,Al Towar,4
+452,Industrial Area 8,Sharjah,Al Towar,4
+453,Industrial Area 9,Sharjah,Al Towar,4
+454,Industrial Area 11,Sharjah,Al Towar,4
+455,Industrial Area 13,Sharjah,Al Towar,4
+456,Industrial Area 15,Sharjah,Al Towar,4
+457,Industrial Area 17,Sharjah,Al Towar,4
+458,Industrial Area 18,Sharjah,Al Towar,4
+459,Al Noof 1,Sharjah,Al Towar,4
+460,Al Jurainah 3,Sharjah,Al Towar,4
+461,Al Jurainah 4,Sharjah,Al Towar,4
+462,Al Noof 2,Sharjah,Al Towar,4
+463,Al Noof 3,Sharjah,Al Towar,4
+464,Al Noof 4,Sharjah,Al Towar,4
+465,Muwailih,Sharjah,Al Towar,4
+466,National Paint,Sharjah,Al Towar,4
+467,Industrial Area 10,Sharjah,Al Towar,4
+468,Industrial Area 12,Sharjah,Al Towar,4
+469,Umm Al Daman,Dubai,Al Aweer,14
+470,Al Qudra,Dubai,Al Barsha South,30
+471,Mira 1,Dubai,Al Barsha South,30
+472,Damac Hills,Dubai,Al Barsha South,30
+473,Mira 2,Dubai,Al Barsha South,30
+474,Mira 3,Dubai,Al Barsha South,30
+475,Mira 4,Dubai,Al Barsha South,30
+476,Mira 5,Dubai,Al Barsha South,30
+477,Mira Oasis 1,Dubai,Al Barsha South,30
+478,Mira Oasis 2,Dubai,Al Barsha South,30
+479,Dubai South,Dubai,Al Barsha South,30
+480,Urbana III,Dubai,Al Barsha South,30
+481,Urbana II,Dubai,Al Barsha South,30
+482,Urbana I,Dubai,Al Barsha South,30
+483,EXPO 2020 Site,Dubai,Al Barsha South,30
+484,Dubai Industrial City,Dubai,Al Barsha South,30
+485,Al Azra,Sharjah,Al Towar,4
+486,Al Ramaqiya,Sharjah,Al Towar,4
+487,Al Suyoh Suburb,Sharjah,Al Towar,4
+488,Al Gharayen,Sharjah,Al Towar,4
+489,Al Bedea Suburb,Sharjah,Al Towar,4
+490,Al Rahmaniya,Sharjah,Al Towar,4
+491,Al Faqa,Dubai,Al Aweer,14
+492,Margham,Dubai,Al Aweer,14
+493,Murqquab,Dubai,Al Aweer,14
+494,Hatta,Dubai,Al Aweer,14
+495,Al Ghafia,Sharjah,Al Towar,4
+496,Mira Oasis 3,Dubai,Al Barsha South,30
+499,Al Nekheila,Umm al-Quwain,UAQ Al Salma Branch,81
